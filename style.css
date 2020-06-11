@@ -1,0 +1,107 @@
+body{
+    margin:0;
+}
+
+img.perfil{
+margin-top:10px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius:100%;
+}
+
+h1{
+ text-align:center;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+p{
+    font-family:Arial;
+    text-align:center;
+}
+
+
+
+b{
+
+ font-family:Arial;
+}
+
+a{
+ font-family:Saira Extra Condensed;
+}
+
+
+
+
+b{
+ text-align:center;
+}
+
+ul {
+  font-family:Impact;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(20, 22, 102);
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:rgb(20, 22, 102);
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:rgb(20, 22, 102);
+    color: white;
+    text-align: center;
+  }
+
+
+img.facebook{
+    width:56px;
+    left:100px;
+    margin-left:50px;
+  }
+img.instagram{
+    width:56px;
+    left:100px;
+    margin-left:50px;
+  }
+img.github{
+    width:56px;
+    left:100px;
+    margin-left:50px;
+  }
+  img.linkedin{
+    width:56px;
+    left:100px;
+    margin-left:50px;
+  }
+
+  div.logos{
+ 
+    margin-left:420px;
+
+  }
+
+  div.navbar{
+    font-family:Impact;
+  }
